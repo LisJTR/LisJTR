@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente trabajando en: mis prácticas de Desarrollo de Aplicaciones Multiplataforma (DAM).
 - 🌱 Aprendiendo: Java, Kotlin, React Native, JavaScript y TypeScript. Siempre explorando nuevas tecnologías.
-- 👯 Busco colaborar en: proyectos de desarrollo móvil y multiplataforma.
+- 👯 Busco oportunidades para colaborar en proyectos de desarrollo móvil y multiplataforma.
 - 📫 Contáctame:  
 [![Correo electrónico](https://img.shields.io/badge/Correo-Gmail-blue?logo=gmail&labelColor=%23D3D3D3&color=%23ADD8E6)](mailto:lis.torres.robalino@gmail.com)
  | 
