@@ -11,7 +11,7 @@
 - 📫 Contáctame:  
 [![Correo electrónico](https://img.shields.io/badge/Correo-Gmail-blue?logo=gmail&labelColor=%23D3D3D3&color=%23ADD8E6)](mailto:lis.torres.robalino@gmail.com)
  | 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Lizeth_Torres-blue?labelColor=%23E6E6FA&color=%23ADD8E6&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)]
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Lizeth_Torres-blue?labelColor=%23E6E6FA&color=%23ADD8E6&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josselyn-lizeth-torres-robalino)
 
 
 
