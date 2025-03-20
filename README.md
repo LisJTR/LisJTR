@@ -27,4 +27,5 @@ Sin embargo, mi verdadera pasión es la tecnología. Por eso, decidí formarme e
 ### Formación Continua  
 🚀 Aprendiendo nuevas tecnologías  
 💡 Siempre en crecimiento
+
 <img src="Certificado.png" alt="Fondo GitHub" width="700" >
