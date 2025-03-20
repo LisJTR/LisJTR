@@ -23,3 +23,7 @@ Soy una persona versátil y en constante aprendizaje. Mi trayectoria me ha lleva
 Sin embargo, mi verdadera pasión es la tecnología. Por eso, decidí formarme en Desarrollo de Aplicaciones Multiplataforma (DAM), donde he adquirido conocimientos en Java, Kotlin, Python, C#,Reac, React Native, JavaScript y TypeScript. Actualmente, estoy realizando mis prácticas y buscando la oportunidad de comenzar mi carrera profesional en el mundo del desarrollo.
 
 💡 Me motiva la resolución de problemas, el aprendizaje continuo y la posibilidad de crear soluciones digitales que hagan la diferencia. Estoy entusiasmada por seguir creciendo en este sector y aportar mis conocimientos y habilidades en un entorno profesional.
+
+# Formación continúa
+
+<img src="Certificado.png" alt="Fondo GitHub" width="1100" >
