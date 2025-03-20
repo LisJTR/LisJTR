@@ -8,8 +8,11 @@
 - 🔭 Actualmente trabajando en: mis prácticas de Desarrollo de Aplicaciones Multiplataforma (DAM).
 - 🌱 Aprendiendo: Java, Kotlin, React Native, JavaScript y TypeScript. Siempre explorando nuevas tecnologías.
 - 👯 Busco colaborar en: proyectos de desarrollo móvil y multiplataforma.
-- 📫 Contáctame: ![Static Badge](https://img.shields.io/badge/Correo-Gmail-blue?logo=gmail&labelColor=%23D3D3D3&color=%23ADD8E6&link=lis.torres.robalino%40gmail.com)
- | ![Static Badge](https://img.shields.io/badge/LINKEDIN-Lizeth_Torres-blue?labelColor=%23E6E6FA&color=%23ADD8E6&link=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F)
+- 📫 Contáctame:  
+[![Correo electrónico](https://img.shields.io/badge/Correo-Gmail-blue?logo=gmail&labelColor=%23D3D3D3&color=%23ADD8E6)](mailto:lis.torres.robalino@gmail.com)
+ | 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Lizeth_Torres-blue?labelColor=%23E6E6FA&color=%23ADD8E6&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-nombre-de-usuario/)
+
 
 
 
