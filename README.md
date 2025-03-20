@@ -24,7 +24,7 @@ Sin embargo, mi verdadera pasión es la tecnología. Por eso, decidí formarme e
 
 💡 Me motiva la resolución de problemas, el aprendizaje continuo y la posibilidad de crear soluciones digitales que hagan la diferencia. Estoy entusiasmada por seguir creciendo en este sector y aportar mis conocimientos y habilidades en un entorno profesional.
 
-# Formación Continua  
+### Formación Continua  
 🚀 Aprendiendo nuevas tecnologías  
 💡 Siempre en crecimiento
 <img src="Certificado.png" alt="Fondo GitHub" width="1000" >
