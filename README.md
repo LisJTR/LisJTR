@@ -25,4 +25,9 @@ Sin embargo, mi verdadera pasión es la tecnología. Por eso, decidí formarme e
 🚀 Aprendiendo nuevas tecnologías  
 💡 Siempre en crecimiento
 
+📫 **Contacto:**
+
+- ✉️ Email: lis.torres.robalino@gmail.com
+- 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/josselyn-lizeth-torres-robalino/)
+
 <img src="Certificado.png" alt="Fondo GitHub" width="700" >
