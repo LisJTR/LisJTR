@@ -9,7 +9,7 @@
 experiencia práctica en desarrollo backend, frontend y automatización de procesos.
 
 🖥️ He trabajado con tecnologías como:
-- **Backend:** Java, Spring Boot, Node.js, PostgreSQL, SQL
+- **Backend:** Java, Spring Boot, Node.js, PostgreSQL, SQL, NoSQL
 - **Frontend:** Kotlin, Jetpack Compose, React Native, React, TypeScript, JavaScript, HTML, CSS
 - **Automatización:** n8n (no-code / low-code)
 - **Otros:** Git, GitHub, Clean Architecture, APIs REST, Supabase
@@ -17,8 +17,7 @@ experiencia práctica en desarrollo backend, frontend y automatización de proce
 🔎 **Actualmente abierta a nuevas oportunidades profesionales** donde seguir creciendo como desarrolladora de software y aportar mis conocimientos en proyectos de desarrollo real.
 
 Soy una persona versátil y en constante aprendizaje. Mi trayectoria me ha llevado por diferentes experiencias, desde el sector administrativo hasta el servicio al cliente, trabajando como camarera y en el Ministerio para la Transición Ecológica y el Reto Demográfico. Estas experiencias me han permitido desarrollar habilidades clave como la organización, la comunicación y la capacidad de adaptación.
-
-Sin embargo, mi verdadera pasión es la tecnología. Por eso, decidí formarme en Desarrollo de Aplicaciones Multiplataforma (DAM), donde he adquirido conocimientos en Java, Kotlin, Python, C#,Reac, React Native, JavaScript y TypeScript. Actualmente, estoy realizando mis prácticas y buscando la oportunidad de comenzar mi carrera profesional en el mundo del desarrollo.
+Sin embargo, mi verdadera pasión es la tecnología. Por eso, decidí formarme en Desarrollo de Aplicaciones Multiplataforma (DAM), donde he adquirido conocimientos sólidos. 
 
 💡🚀 Me motiva la resolución de problemas, el aprendizaje continuo y la posibilidad de crear soluciones digitales que hagan la diferencia. Estoy entusiasmada por seguir creciendo en este sector y aportar mis conocimientos y habilidades en un entorno profesional.
 
