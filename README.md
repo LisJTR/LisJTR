@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, soy Lis 👋</h1>
 </div>  
-  <img src="fondo_git2.png" alt="Fondo GitHub" width="1100" >
+  <img src="fondo_github.png" alt="Fondo GitHub" width="1100" >
 
 ## 🌟Sobre mí
 
