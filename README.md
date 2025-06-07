@@ -8,6 +8,12 @@
 🎯 **Desarrolladora de software** 
 experiencia práctica en desarrollo backend, frontend y automatización de procesos.
 
+📫 **Contacto:**
+
+- ✉️ Email: lis.torres.robalino@gmail.com
+- 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/josselyn-lizeth-torres-robalino/)
+
+
 🖥️ He trabajado con tecnologías como:
 - **Backend:** Java, Spring Boot, Node.js, PostgreSQL, SQL, NoSQL
 - **Frontend:** Kotlin, Jetpack Compose, React Native, React, TypeScript, JavaScript, HTML, CSS
@@ -24,9 +30,4 @@ Sin embargo, mi verdadera pasión es la tecnología. Por eso, decidí formarme e
 ### Formación Continua  
 🚀 Aprendiendo nuevas tecnologías  
 💡 Siempre en crecimiento
-
-📫 **Contacto:**
-
-- ✉️ Email: lis.torres.robalino@gmail.com
-- 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/josselyn-lizeth-torres-robalino/)
 
