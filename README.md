@@ -5,24 +5,24 @@
 
 ## 🌟Sobre mí
 
-🎯 **Desarrolladora de software junior** 
-Enfocada en seguir reforzando y aprendiendo cada día.
+🎯 **Desarrolladora de software junior**, enfocada en reforzar fundamentos y aprender cada día.
+
 Me gusta construir proyectos reales, entender bien los fundamentos y seguir aprendiendo.
 
-Actualmente estoy trabajando en **proyectos personales** aplicando mi aprendizaje continuo:
+Actualmente estoy trabajando en **proyectos personales**, aplicando de forma práctica mi aprendizaje continuo:
 
 🖥️ **Tecnologías con las que trabajo:**
 
 - **Backend:** Java, Spring Boot, APIs REST, Node.js
 - **Frontend:**  JavaScript, HTML, CSS, Kotlin, Jetpack Compose, React Native, React
-- **Bases de dato (SQL/NoSQL):**  PostgreSQL, MySQL, MongoDB, SQLite,Supabase
+- **Bases de datos (SQL/NoSQL):**  PostgreSQL, MySQL, MongoDB, SQLite, Supabase
 - **Otros:** Postman, VS Code, Eclipse, PyCharm, IntelliJ, Android Studio, Power BI Desktop
 - **Control de versiones:** Git · GitHub · Git Flow
 - **Gestión de datos:** JSON, XML, CSV, Excel, Power BI (nociones)
 
 🔎 **En este GitHub encontrarás:** 
 
-- Proyectos aplicando conocimentos adquiridos
+- Proyectos Backend y Full Stack aplicando conocimientos adquiridos
 - Prácticas de base de datos y SQL
 - Prácticas de análisis de datos (Excel - Power BI)
 - Experimentos y aprendizaje continuo 🚀
