@@ -36,6 +36,7 @@ Me gusta construir proyectos reales, entender bien los fundamentos y seguir apre
 | ![](https://github-readme-stats.vercel.app/api?username=LisJTR&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LisJTR&layout=compact&theme=tokyonight) |
 
 
+
 📫 **Contacto**
 - ✉️ Email: lis.torres.robalino@gmail.com  
 - 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/josselyn-lizeth-torres-robalino/)
