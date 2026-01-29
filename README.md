@@ -5,29 +5,36 @@
 
 ## 🌟Sobre mí
 
-🎯 **Desarrolladora de software** 
-experiencia práctica en desarrollo backend, frontend y automatización de procesos.
+🎯 **Desarrolladora de software junior** 
+Enfocada en seguir reforzando y aprendiendo cada día.
+Me gusta construir proyectos reales, entender bien los fundamentos y seguir aprendiendo.
 
-📫 **Contacto:**
+Actualmente estoy trabajando en **proyectos personales** aplicando mi aprendizaje continuo:
 
-- ✉️ Email: lis.torres.robalino@gmail.com
+🖥️ **Tecnologías con las que trabajo:**
+
+- **Backend:** Java, Spring Boot, APIs REST, Node.js
+- **Frontend:**  JavaScript, HTML, CSS, Kotlin, Jetpack Compose, React Native, React
+- **Bases de dato (SQL/NoSQL):**  PostgreSQL, MySQL, MongoDB, SQLite,Supabase
+- **Otros:** Postman, VS Code, Eclipse, PyCharm, IntelliJ, Android Studio, Power BI Desktop
+- **Control de versiones:** Git · GitHub · Git Flow
+- **Gestión de datos:** JSON, XML, CSV, Excel, Power BI (nociones)
+
+🔎 **En este GitHub encontrarás:** 
+
+- Proyectos aplicando conocimentos adquiridos
+- Prácticas de base de datos y SQL
+- Prácticas de análisis de datos (Excel - Power BI)
+- Experimentos y aprendizaje continuo 🚀
+
+🔎 **Abierta a oportunidades junior / prácticas** donde seguir creciendo como desarrolladora y aportar ganas, constancia y mentalidad de aprendizaje.
+
+📫 **Contacto**
+- ✉️ Email: lis.torres.robalino@gmail.com  
 - 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/josselyn-lizeth-torres-robalino/)
 
+---
 
-🖥️ He trabajado con tecnologías como:
-- **Backend:** Java, Spring Boot, Node.js, PostgreSQL, SQL, NoSQL
-- **Frontend:** Kotlin, Jetpack Compose, React Native, React, TypeScript, JavaScript, HTML, CSS
-- **Automatización:** n8n (no-code / low-code)
-- **Otros:** Git, GitHub, Clean Architecture, APIs REST, Supabase
-
-🔎 **Actualmente abierta a nuevas oportunidades profesionales** donde seguir creciendo como desarrolladora de software y aportar mis conocimientos en proyectos de desarrollo real.
-
-Soy una persona versátil y en constante aprendizaje. Mi trayectoria me ha llevado por diferentes experiencias, desde el sector administrativo hasta el servicio al cliente, trabajando como camarera y en el Ministerio para la Transición Ecológica y el Reto Demográfico. Estas experiencias me han permitido desarrollar habilidades clave como la organización, la comunicación y la capacidad de adaptación.
-Sin embargo, mi verdadera pasión es la tecnología. Por eso, decidí formarme en Desarrollo de Aplicaciones Multiplataforma (DAM), donde he adquirido conocimientos sólidos. 
-
-💡🚀 Me motiva la resolución de problemas, el aprendizaje continuo y la posibilidad de crear soluciones digitales que hagan la diferencia. Estoy entusiasmada por seguir creciendo en este sector y aportar mis conocimientos y habilidades en un entorno profesional.
-
-### Formación Continua  
-🚀 Aprendiendo nuevas tecnologías  
-💡 Siempre en crecimiento
+### 🌱 Formación continua
+Siempre aprendiendo, probando cosas nuevas y mejorando proyecto a proyecto.
 
