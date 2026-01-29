@@ -29,11 +29,16 @@ Me gusta construir proyectos reales, entender bien los fundamentos y seguir apre
 
 🔎 **Abierta a oportunidades junior / prácticas** donde seguir creciendo como desarrolladora y aportar ganas, constancia y mentalidad de aprendizaje.
 
-## ⚙️ GitHub Analytics
+<h2 align="center">⚙️ GitHub Analytics</h2>
 
-| My GitHub Stats | My Programming Languages |
-|-----------------|--------------------------|
-| ![](https://github-readme-stats.vercel.app/api?username=LisJTR&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LisJTR&layout=compact&theme=tokyonight) |
+<p align="center">
+  <a href="https://github.com/LisJTR">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=LisJTR&show_icons=true&theme=tokyonight"/>
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisJTR&layout=compact&theme=tokyonight"/>
+  </a>
+</p>
 
 
 
