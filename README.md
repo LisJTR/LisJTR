@@ -34,12 +34,11 @@ Me gusta construir proyectos reales, entender bien los fundamentos y seguir apre
 <p align="center">
   <a href="https://github.com/LisJTR">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=LisJTR&show_icons=true&theme=tokyonight"/>
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=LisJTR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisJTR&layout=compact&theme=tokyonight"/>
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LisJTR&layout=compact&langs_count=8&theme=algolia" />
   </a>
 </p>
-
 
 
 📫 **Contacto**
