@@ -5,18 +5,18 @@
 
 ## 🌟Sobre mí
 
-🎯 **Desarrolladora de software junior**, enfocada en reforzar fundamentos y aprender cada día.
+🎯 **Desarrolladora junior**
+Apasionada por la tecnología y con muchas ganas de seguir aprendiendo y mejorando cada día.  
+Me encanta profundizar en nuevos ámbitos, construir proyectos aplicando nuevos conocimientos.
 
 Me gusta construir proyectos reales, entender bien los fundamentos y seguir aprendiendo.
 
-Actualmente estoy trabajando en **proyectos personales**, aplicando de forma práctica mi aprendizaje continuo:
+🖥️ **Tecnologías que me encantan:**
 
-🖥️ **Tecnologías con las que trabajo:**
-
-- **Backend:** Java, Spring Boot, APIs REST, Node.js
-- **Frontend:**  JavaScript, HTML, CSS, Kotlin, Jetpack Compose, React Native, React
-- **Bases de datos (SQL/NoSQL):**  PostgreSQL, MySQL, MongoDB, SQLite, Supabase
-- **Otros:** Postman, VS Code, Eclipse, PyCharm, IntelliJ, Android Studio, Power BI Desktop
+- **Backend:** Java, Python 
+- **Frontend:**  JavaScript, HTML, CSS, Kotlin
+- **Bases de datos (SQL/NoSQL):**  PostgreSQL, MySQL
+- **Otros:** Postman, VS Code, Eclipse, PyCharm IDLE, IntelliJ, Android Studio, Power BI Desktop
 - **Control de versiones:** Git · GitHub · Git Flow
 - **Gestión de datos:** JSON, XML, CSV, Excel, Power BI (nociones)
 
@@ -28,6 +28,13 @@ Actualmente estoy trabajando en **proyectos personales**, aplicando de forma pr�
 - Experimentos y aprendizaje continuo 🚀
 
 🔎 **Abierta a oportunidades junior / prácticas** donde seguir creciendo como desarrolladora y aportar ganas, constancia y mentalidad de aprendizaje.
+
+## ⚙️ GitHub Analytics
+
+| My GitHub Stats | My Programming Languages |
+|-----------------|--------------------------|
+| ![](https://github-readme-stats.vercel.app/api?username=LisJTR&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LisJTR&layout=compact&theme=tokyonight) |
+
 
 📫 **Contacto**
 - ✉️ Email: lis.torres.robalino@gmail.com  
