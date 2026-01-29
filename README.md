@@ -27,7 +27,7 @@ Me gusta construir proyectos reales, entender bien los fundamentos y seguir apre
 - Prácticas de análisis de datos (Excel - Power BI)
 - Experimentos y aprendizaje continuo 🚀
 
-🔎 **Abierta a oportunidades junior / prácticas** donde seguir creciendo como desarrolladora y aportar ganas, constancia y mentalidad de aprendizaje.
+​🤗​​**Abierta a oportunidades junior / prácticas** donde seguir creciendo como desarrolladora y aportar ganas, constancia y mentalidad de aprendizaje.
 
 <h2 align="center">⚙️ GitHub Analytics</h2>
 
